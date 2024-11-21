@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 
-<!--
-**ErikaCoder/ErikaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World 👋 Bem-vindo(a) ao meu GitHub!
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 💻 Estudante e Desenvolvedora Jr. Fullstack
+- 🤓 Embaixadora da Dio Campus Expert
+- 🎓 Cursando Bacharelado em Engenharia de Software 
+- 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
+- 💼 Transição de Carreira
+- ⚖️ Formada em Direito e Pós-Graduada
+- 🌱 Estou proativamente buscando minha primeira oportunidade profissional em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,golang,git,github,figma,vscode,idea,pycharm,sublime,windows,linux)](https://skillicons.dev)
+
+
+
