@@ -15,6 +15,14 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,golang,git,github,figma,vscode,idea,pycharm,sublime,windows,linux)](https://skillicons.dev)
 
+<div>
+<a href="https://github.com/ErikaCoder">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCoder&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikaCoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
+
+
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikaCoder/ErikaCoder/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikaCoder/ErikaCoder/output/github-contribution-grid-snake-dark.svg">
