@@ -15,7 +15,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,golang,git,github,figma,vscode,idea,pycharm,sublime,windows,linux)](https://skillicons.dev)
 
-<div>
+<div align="center">
 <a href="https://github.com/ErikaCoder">
  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=ErikaCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCoder&layout=compact&langs_count=7&theme=tokyonight"/>
