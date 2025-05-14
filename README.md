@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 
-## Hello World 👋 Bem-vindo(a) ao meu GitHub!
-Aqui você vai encontrar meus projetos e contribuições, além de poder ver meu progresso enquanto estou em transição de carreira para a área de **desenvolvimento de software**.
+# Hello World 👋 Bem-vindo(a) ao meu GitHub!
 
 ## Sobre Mim
 - 💻 Estudante e Desenvolvedora Jr. Fullstack
