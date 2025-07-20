@@ -3,7 +3,7 @@
 # Hello World 👋 Bem-vindo(a) ao meu GitHub!
 
 ## Sobre Mim
-- 💻 Estudante e Desenvolvedora Jr. Fullstack
+- 💻 Estudante e Desenvolvedora Fullstack Jr.
 - 🤓 Embaixadora da Dio Campus Expert
 - 🎓 Cursando Bacharelado em Engenharia de Software 
 - 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
