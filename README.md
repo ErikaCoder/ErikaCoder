@@ -14,6 +14,10 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,figma,vscode,idea,pycharm,windows,linux)](https://skillicons.dev)
 
+ ## Participações e Conquistas
+[<img src="https://hermes.dio.me/tracks/02ee8de6-37e2-4be7-872d-0d7d94910cae.png" height="50"></a>](https://web.dio.me/track/8f3056da-5877-40e1-bd15-de9ae4d9885d?tab=path)
+[<img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" height="40"></a>](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one)
+
 <div align="center">
 <a href="https://github.com/ErikaCoder">
  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=ErikaCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
