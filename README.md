@@ -3,13 +3,11 @@
 # Hello World 👋 Bem-vindo(a) ao meu GitHub!
 
 ## Sobre Mim
+- 🌍 Entusiasta de Tecnologia
 - 💻 Estudante e Desenvolvedora Fullstack Jr.
-- 🤓 Embaixadora da Dio Campus Expert
-- 🎓 Cursando Bacharelado em Engenharia de Software 
+- 🎓 Cursando Engenharia de Software 
 - 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
-- 💼 Transição de Carreira
-- ⚖️ Formada em Direito e Pós-Graduada
-- 🎯 Buscando minha primeira oportunidade profissional em desenvolvimento de software
+
 ## Tecnologias e Ferramentas
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,figma,vscode,idea,pycharm,windows,linux)](https://skillicons.dev)
