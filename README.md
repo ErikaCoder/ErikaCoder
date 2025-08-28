@@ -12,12 +12,15 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,figma,vscode,idea,pycharm,windows,linux)](https://skillicons.dev)
 
+<h2 align="center">GitHub Stats</h2> 
 <div align="center">
-<a href="https://github.com/ErikaCoder">
- <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=ErikaCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCoder&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikaCoder&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErikaCoder&theme=tokyonight&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikaCoder&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikaCoder&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErikaCoder&theme=tokyonight">
 </div>
-
+<br/>
 
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikaCoder/ErikaCoder/output/github-contribution-grid-snake-dark.svg">
