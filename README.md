@@ -5,7 +5,7 @@
 ## Sobre Mim
 - 🌍 Entusiasta de Tecnologia
 - 💻 Estudante e Desenvolvedora Fullstack Jr.
-- 🤖 Explorando novas tecnologias e desenvolvendo soluções de software
+- 🤖 Aprendendo e explorando novas tecnologias 
 
 ## Tecnologias e Ferramentas
 
